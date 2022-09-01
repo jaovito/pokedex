@@ -15,6 +15,7 @@ Fora isso é possível ver os ataques do pokemon, como choque do trovão (Pikach
 - [React Native](https://reactnative.dev/)
 - [Expo](https://docs.expo.dev/)
 - [Styled Components](https://styled-components.com/)
+- [PokeAPI](https://pokeapi.co/)
 
 ## Instalação 💻
 
